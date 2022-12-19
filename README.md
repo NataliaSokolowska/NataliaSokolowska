@@ -29,3 +29,7 @@ I'm frontend developer
 <a href="https://miro.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/miro-F9DC3e.svg?style=for-the-badge&logo=miro&logoColor=white" alt="Miro" /></a>
 <a href="https://figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
 </p>
+
+### My GitHub Stats
+
+<a href="http://www.github.com/nataliasokolowska"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nataliasokolowska&theme=radical" /></a>
